@@ -4,28 +4,6 @@ This repository is dedicated to APK releases for GPlay, the CarPlay app for modi
 
 It contains release artifacts, versioned APK builds, and installation-related documentation only. This is not a source-code repository.
 
-## Overview
-
-GPlay-releases is a distribution-focused repository for sharing APK builds for the GPlay app. It is intended for users who want ready-to-install releases rather than source code or development files.
-
-## What is stored here
-
-- APK release files
-- versioned build artifacts
-- release notes and changelogs
-- installation guidance
-
-## Release workflow
-
-1. Build or obtain the APK for the target version.
-2. Upload the APK to the appropriate release section.
-3. Add a version tag and note the changes.
-4. Share installation instructions and compatibility notes.
-
-## Installation
-
-Download the latest APK from the releases section and install it on a compatible device or vehicle system following the provided instructions.
-
 ## Compatibility
 
 This repository is intended for GPlay APK builds designed for modified Geely HU systems and related CarPlay use cases.
