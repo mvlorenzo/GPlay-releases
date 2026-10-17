@@ -22,23 +22,6 @@ GPlay-releases is a distribution-focused repository for sharing APK builds for t
 3. Add a version tag and note the changes.
 4. Share installation instructions and compatibility notes.
 
-## Repository structure
-
-```text
-GPlay-releases/
-├── README.md
-├── LICENSE
-├── releases/
-│   ├── v1.0.0/
-│   │   └── GPlay-v1.0.0.apk
-│   └── latest/
-│       └── GPlay-latest.apk
-├── changelog/
-│   └── CHANGELOG.md
-└── docs/
-    └── installation.md
-```
-
 ## Installation
 
 Download the latest APK from the releases section and install it on a compatible device or vehicle system following the provided instructions.
